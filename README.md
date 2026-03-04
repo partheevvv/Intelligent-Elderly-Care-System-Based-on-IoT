@@ -167,5 +167,3 @@ Open **Serial Monitor** and set:
 - GPS module integration for location-based emergencies
 - On-device buzzer + acknowledgment button
 - Better fall detection using sensor fusion / ML classifier
-
-```
