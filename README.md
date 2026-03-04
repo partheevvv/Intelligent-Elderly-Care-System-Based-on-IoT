@@ -1,4 +1,3 @@
-```md
 # IoT Elderly Care System (ESP32) — Heart Rate + Fall Detection
 
 An intelligent elderly care system designed to monitor health vitals and detect emergency situations in real-time. Built with an **ESP32**, this project integrates **fall detection (MPU6050)** and **heart rate monitoring (MAX30102)** to improve the safety of elderly users.
